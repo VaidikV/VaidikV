@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VaidikV
-- 👀 I’m interested in anything related to computers and music! 
-- 🌱 I’m currently learning Python and a little bit of Java and C alongside.
-- 💞️ I’m looking to collaborate on anything that gives me a chance to contribute something uselful.
+- 👀 I’m interested in anything related to computers, art and music! 
+- 💞️ I’m looking to collaborate on anything that gives me a chance to contribute something valuable.
 - 📫 You can reach me by my email.
 
 <!---
