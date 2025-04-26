@@ -1,11 +1,10 @@
 ### Hi, I’m Vaidik! 👋
 
-🎓 CS Master's student @ USC  
-💻 I build scalable systems, AI tools, and real-world applications  
-🌐 Curious about backend development, cloud platforms, and data engineering  
-🎨 Passionate about art, music, and design  
-🚀 Always learning, always building
-
+🎓 Currently pursuing my Master’s in Computer Science at USC  
+💻 Passionate about building scalable systems, AI tools, and real-world applications  
+⚡ Always curious to dive deeper into backend engineering, data-driven systems, and cloud technologies  
+🎨 Outside of tech, I love exploring art, music, and creative design  
+🚀 Constantly learning, building, and looking for ways to create meaningful impact  
 
 
 [![Vaidik's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaidikV)](https://github.com/anuraghazra/github-readme-stats)
