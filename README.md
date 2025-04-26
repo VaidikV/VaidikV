@@ -3,7 +3,7 @@
 🎓 CS Master's student @ USC  
 💻 I build scalable systems, AI tools, and real-world applications  
 🌐 Curious about backend development, cloud platforms, and data engineering  
-🎨 Lover of art, music, and design  
+🎨 Passionate about art, music, and design  
 🚀 Always learning, always building
 
 
