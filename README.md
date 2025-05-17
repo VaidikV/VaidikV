@@ -1,9 +1,8 @@
 ### Hi, I’m Vaidik! 👋
 
-🎓 Currently pursuing my Master’s in Computer Science at USC  
-💻 Passionate about building scalable systems, AI tools, and real-world applications  
-⚡ Always curious to dive deeper into backend engineering, data-driven systems, and cloud technologies  
-🎨 Outside of tech, I love exploring art, music, and creative design  
+🎓 Pursuing Master’s in Computer Science at USC  
+💻 Checkout my latest VS Code extension "OmniChat AI" 
+⚡ Always curious to dive deeper into backend engineering, data-driven systems, and cloud technologies   
 🚀 Constantly learning, building, and looking for ways to create meaningful impact  
 
 
