@@ -40,6 +40,15 @@ Exploring the latest in AI: local LLMs, agents, and developer tooling that makes
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VaidikV&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaidikV&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160" />
+</p>
+
+---
+
 ### 🤝 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaidik-v/)
