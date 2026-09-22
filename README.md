@@ -12,7 +12,7 @@ Exploring the latest in AI: local LLMs, agents, and developer tooling that makes
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,ts,js,cs,html,flask,mongodb,sklearn,vscode,git,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,ts,js,cs,cpp,html,nodejs,flask,mongodb,sklearn,aws,gcp,docker,kubernetes,anaconda,postman,selenium,apple,vscode,git,github,vercel&perline=11)](https://skillicons.dev)
 
 ---
 
