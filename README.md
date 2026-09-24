@@ -16,6 +16,15 @@ I build backend systems at Exelint International Co. and tinker with local-first
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A037?style=flat&logo=anaconda&logoColor=white)
 
+**NetSuite**
+
+![NetSuite](https://img.shields.io/badge/NetSuite-16385B?style=flat)
+![SuiteScript](https://img.shields.io/badge/SuiteScript-16385B?style=flat)
+![SuiteTalk](https://img.shields.io/badge/SuiteTalk-16385B?style=flat)
+![SuiteQL](https://img.shields.io/badge/SuiteQL-16385B?style=flat)
+![SDF](https://img.shields.io/badge/SDF-16385B?style=flat)
+![SuiteCloud](https://img.shields.io/badge/SuiteCloud-16385B?style=flat)
+
 **Backend & Data**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
