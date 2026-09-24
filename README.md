@@ -1,4 +1,4 @@
-# Hi, I'm Vaidik Vadhavana 👋
+# Hi, I'm Vaidik 👋
 
 **Software Engineer @ Exelint International Co.** · **MSCS @ USC** · **Los Angeles, CA**
 
