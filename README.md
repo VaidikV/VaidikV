@@ -2,7 +2,7 @@
 
 **Software Engineer @ Exelint International Co.** · **MSCS @ USC** · **Los Angeles, CA**
 
-[![CodeFactor](https://www.codefactor.io/repository/github/VaidikV/OmniChat-VSCode-Extension/badge)](https://www.codefactor.io/repository/github/VaidikV/OmniChat-VSCode-Extension)
+[![Vaidik's GitHub stats](https://github-stats-extended.vercel.app/api?username=VaidikV&theme=tokyonight&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 
 I make AI practical. By day I'm a software engineer at Exelint International Co., a B2B medical device company, building backend systems. On my own time I tinker with local-first LLM tools, AI and ML-driven systems. I like taking cutting-edge AI capabilities and turning them into software that holds up in prod.
 
