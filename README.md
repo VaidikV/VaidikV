@@ -43,8 +43,11 @@ Exploring the latest in AI: local LLMs, agents, and developer tooling that makes
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaidikV&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaidikV&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160" />
+  <img src="https://raw.githubusercontent.com/VaidikV/VaidikV/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+  <img src="https://raw.githubusercontent.com/VaidikV/VaidikV/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/VaidikV/VaidikV/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
+  <img src="https://raw.githubusercontent.com/VaidikV/VaidikV/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
+  <img src="https://raw.githubusercontent.com/VaidikV/VaidikV/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
 </p>
 
 ---
