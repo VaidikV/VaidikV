@@ -2,6 +2,8 @@
 
 **Software Engineer @ Exelint International Co.** · **MSCS @ USC** · **Los Angeles, CA**
 
+[![CodeFactor](https://www.codefactor.io/repository/github/VaidikV/OmniChat-VSCode-Extension/badge)](https://www.codefactor.io/repository/github/VaidikV/OmniChat-VSCode-Extension)
+
 I make AI practical. By day I'm a software engineer at Exelint International Co., a B2B medical device company, building backend systems. On my own time I tinker with local-first LLM tools, AI and ML-driven systems. I like taking cutting-edge AI capabilities and turning them into software that holds up in prod.
 
 ### 🧪 Currently
@@ -37,18 +39,6 @@ Exploring the latest in AI: local LLMs, agents, and developer tooling that makes
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/VaidikV/VaidikV/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
-  <img src="https://raw.githubusercontent.com/VaidikV/VaidikV/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-  <img src="https://raw.githubusercontent.com/VaidikV/VaidikV/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
-  <img src="https://raw.githubusercontent.com/VaidikV/VaidikV/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" />
-  <img src="https://raw.githubusercontent.com/VaidikV/VaidikV/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
-</p>
 
 ---
 
