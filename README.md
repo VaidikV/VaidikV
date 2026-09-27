@@ -6,7 +6,8 @@
 
 [![Vaidik's GitHub stats](https://github-stats-extended.vercel.app/api?username=VaidikV&theme=swift&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 
-### 🛠️ Tech Stack
+<details>
+<summary><b>🛠️ Tech Stack</b></summary>
 
 **Languages**
 
@@ -74,6 +75,8 @@
 **Tools**
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Apple](https://img.shields.io/badge/Apple-000000?style=flat&logo=apple&logoColor=white)
+
+</details>
 
 ---
 
