@@ -6,8 +6,6 @@
 
 [![Vaidik's GitHub stats](https://github-stats-extended.vercel.app/api?username=VaidikV&theme=swift&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 
-I build backend systems at Exelint International Co. and tinker with local-first LLM tooling on my own time. I like turning cutting-edge AI into software that holds up in prod.
-
 ### 🛠️ Tech Stack
 
 **Languages**
