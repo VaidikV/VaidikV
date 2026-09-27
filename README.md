@@ -4,7 +4,7 @@
 
 [![GitHub contribution heatmap](https://terminal-typing-svg.vaidikv.workers.dev/stats?username=VaidikV&style=heatmap&theme=monokai&v=8)](https://github.com/VaidikV/terminal-typing-svg)
 
-[![GitHub stats](https://terminal-typing-svg.vaidikv.workers.dev/stats?username=VaidikV&theme=monokai&animate=false&width=560)](https://github.com/VaidikV/terminal-typing-svg)
+[![GitHub stats](https://terminal-typing-svg.vaidikv.workers.dev/stats?username=VaidikV&theme=monokai&animate=false&width=560&v=2)](https://github.com/VaidikV/terminal-typing-svg)
 
 <details>
 <summary><b>🛠️ Tech Stack</b></summary>
