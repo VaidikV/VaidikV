@@ -6,6 +6,8 @@
 
 [![Vaidik's GitHub stats](https://github-stats-extended.vercel.app/api?username=VaidikV&theme=swift&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 
+[![GitHub contribution heatmap](https://terminal-typing-svg.vaidikv.workers.dev/stats?username=VaidikV&style=heatmap&theme=github-dark)](https://github.com/VaidikV/terminal-typing-svg)
+
 <details>
 <summary><b>🛠️ Tech Stack</b></summary>
 
