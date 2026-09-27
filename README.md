@@ -2,6 +2,8 @@
 
 **Software Engineer @ Exelint International Co.** · **MSCS @ USC** · **Los Angeles, CA**
 
+[![Terminal typing animation](https://terminal-typing-svg.vaidikv.workers.dev/?lines=%24%20whoami;vaidik%20%C2%B7%20backend%20engineer%20%C2%B7%20MSCS%20%40%20USC;%24%20cat%20focus.txt;AI%20%2B%20LLM%20integration;developer%20tooling;applied%20ML;%24%20ls%20~%2Fbuilds;conduit%2F%20%20baton%2F%20%20omnichat%2F;%24%20.%2Fbuild_in_public.sh;shipping%20weekly%20-%3E%20follow%20along&theme=tokyonight)](https://terminal-typing-svg.vaidikv.workers.dev/demo)
+
 [![Vaidik's GitHub stats](https://github-stats-extended.vercel.app/api?username=VaidikV&theme=swift&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 
 I build backend systems at Exelint International Co. and tinker with local-first LLM tooling on my own time. I like turning cutting-edge AI into software that holds up in prod.
