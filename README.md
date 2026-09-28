@@ -1,6 +1,6 @@
 # Hi, I'm Vaidik 👋
 
-[![Terminal typing animation](https://terminal-typing-svg.vaidikv.workers.dev/?lines=%24%20whoami;Software%20Engineer%20%40%20Exelint%20International%20Co.;MSCS%20%40%20USC%20%C2%B7%20Los%20Angeles%2C%20CA;%24%20cat%20focus.txt;AI%20%2B%20LLM%20integration;developer%20tooling;applied%20ML;%24%20ls%20~%2Fbuilds;conduit%2F%20%20baton%2F%20%20omnichat%2F;%24%20.%2Fbuild_in_public.sh;shipping%20weekly%20-%3E%20follow%20along&theme=monokai&prompt=vaidikv@github&fontSize=18)]([https://terminal-typing-svg.vaidikv.workers.dev/demo](https://github.com/VaidikV/terminal-typing-svg))
+[![Terminal typing animation](https://terminal-typing-svg.vaidikv.workers.dev/?lines=%24%20whoami;Software%20Engineer%20%40%20Exelint%20International%20Co.;MSCS%20%40%20USC%20%C2%B7%20Los%20Angeles%2C%20CA;%24%20cat%20focus.txt;AI%20%2B%20LLM%20integration;developer%20tooling;applied%20ML;%24%20ls%20~%2Fbuilds;conduit%2F%20%20baton%2F%20%20omnichat%2F;%24%20.%2Fbuild_in_public.sh;shipping%20weekly%20-%3E%20follow%20along&theme=monokai&prompt=vaidikv@github&fontSize=18)](https://github.com/VaidikV/terminal-typing-svg)
 [![GitHub contribution heatmap](https://terminal-typing-svg.vaidikv.workers.dev/stats?username=VaidikV&style=heatmap&theme=monokai&v=9)](https://github.com/VaidikV/terminal-typing-svg)
 [![GitHub stats](https://terminal-typing-svg.vaidikv.workers.dev/stats?username=VaidikV&theme=monokai&animate=false&width=560&v=2)](https://github.com/VaidikV/terminal-typing-svg)
 
